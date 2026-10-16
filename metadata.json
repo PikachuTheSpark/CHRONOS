@@ -1,0 +1,6 @@
+{
+  "name": "Chronos Precision Focus",
+  "description": "High-performance temporal orchestration and precision time-blocking workspace engineered for deep cognitive focus.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
